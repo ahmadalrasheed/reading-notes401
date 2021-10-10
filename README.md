@@ -1,15 +1,20 @@
-# reading-notes401
+# reading-notes
 
-
+## Code 102 - Intro to Software Development
+## Code 201 - Foundations of Software Development
+## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
 
-## introduction about my self
+### introduction about my self
  **My name is Ahmad Alrasheed, i am biomedical engineer graduated from Yarmouk university, before few years i started searching of programming , I liked this field so much , so that now i decided to change my specification because i found my passion in programming, and now i am learning hard to be a professional-full stack developer, i am so exited to start with this course and to prove myself and to enhance my abilities !**
+
+### Description
+***this Website is about gathering information about everything related to software development using python, every piece of information in this website is important to anyone who wants to be python developer!***
 
 | page        | link           |
 | ----------- | -----------    |
 | class1      | [pagelink1](read01.md)  |
-| class2      | [pagelink2]()  |
+| class2      | [pagelink2](read02.md)  |
 | class3      | [pagelink3]()  |
 | class4      | [pagelink4]()  |
 | class5      | [pagelink5]()  |
