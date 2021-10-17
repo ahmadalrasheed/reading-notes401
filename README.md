@@ -19,7 +19,7 @@
 | class4      | [pagelink4](read04.md)  |
 | class5      | [pagelink5](read05.md)  |
 | class6      | [pagelink6](read06.md)  |
-| class7      | [pagelink7]()  |
+| class7      | [pagelink7](read07.md)  |
 | class8      | [pagelink8]()  |
 | class9      | [pagelink9]()  |
 | class10     | [pagelink10]() |
