@@ -23,7 +23,7 @@
 | class8      | [pagelink8](read08.md)  |
 | class9      | [pagelink9](read09.md)  |
 | class10     | [pagelink10](read10.md) |
-| class11     | [pagelink11]() |
+| class11     | [pagelink11](read11.md) |
 | class12     | [pagelink12]() |
 | class13     | [pagelink13]() |
 | class14     | [pagelink14]() |
