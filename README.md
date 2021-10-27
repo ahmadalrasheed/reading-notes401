@@ -26,7 +26,7 @@
 | class11     | [pagelink11](read11.md) |
 | class12     | [pagelink12](read12.md) |
 | class13     | [pagelink13](read13.md) |
-| class14     | [pagelink14]() |
+| class14     | [pagelink14](read14.md) |
 | class15     | [pagelink15]() |
 | class16      | [pagelink16]()  |
 | class17      | [pagelink17]()  |
