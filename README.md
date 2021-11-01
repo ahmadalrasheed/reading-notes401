@@ -30,7 +30,7 @@
 | class15     | [pagelink15](read15.md) |
 | class16      | [pagelink16](read16.md)  |
 | class17      | [pagelink17](read17.md)  |
-| class18      | [pagelink18]()  |
+| class18      | [pagelink18](read18.md)  |
 | class19      | [pagelink19]()  |
 | class20      | [pagelink20]()  |
 | class21      | [pagelink21]()  |
