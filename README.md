@@ -32,7 +32,7 @@
 | class17      | [pagelink17](read17.md)  |
 | class18      | [pagelink18](read18.md)  |
 | class19      | [pagelink19](read19.md)  |
-| class20      | [pagelink20]()  |
+| class20      | [pagelink20](read20.md)  |
 | class21      | [pagelink21]()  |
 | class22      | [pagelink22]()  |
 | class23      | [pagelink23]()  |
