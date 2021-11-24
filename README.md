@@ -41,7 +41,7 @@
 | class26     | [pagelink26](read26.md) |
 | class27     | [pagelink27](read27.md) |
 | class28     | [pagelink28](read28.md) |
-| class29     | [pagelink29]() |
+| class29     | [pagelink29](read29.md) |
 | class30     | [pagelink30]() |
 | class31      | [pagelink31]()  |
 | class32      | [pagelink32]()  |
