@@ -45,7 +45,7 @@
 | class30     | [pagelink30](read30.md) |
 | class31      | [pagelink31](read31.md)  |
 | class32      | [pagelink32](read32.md)  |
-| class33      | [pagelink33]()  |
+| class33      | [pagelink33](read33.md)  |
 | class34      | [pagelink34]()  |
 | class35      | [pagelink35]()  |
 | class36      | [pagelink36]()  |
